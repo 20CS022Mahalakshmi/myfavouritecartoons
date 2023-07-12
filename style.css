@@ -1,0 +1,12 @@
+.cartoon{
+    background-color: aqua;
+    margin:10px solid red;
+    text-align: center;
+    position: center;
+    background-position: 600;
+    padding:10px;
+    border:10px solid blue;
+}
+h2{
+    text-align: center;
+}
